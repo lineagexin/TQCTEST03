@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEST03</string>
+    <string name="guessnumber">送出猜數字</string>
+    <string name="TEXT">請輸入三個不重複的數字:</string>
+</resources>
